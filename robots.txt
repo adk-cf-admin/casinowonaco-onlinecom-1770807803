@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casinowonaco-online.com/
+Sitemap: https://casinowonaco-online.com/sitemap.xml

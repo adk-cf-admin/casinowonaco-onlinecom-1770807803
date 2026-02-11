@@ -1,0 +1,19 @@
+{
+  "name": "Wonaco",
+  "short_name": "Wonaco",
+  "theme_color": "",
+  "background_color": "#0F172A",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1770807354-favicon-32x32-2u2mtx.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
